@@ -1,4 +1,4 @@
-##DogSocial - VueJS 2.0 and Laravel 5.5 Project
+#DogSocial - VueJS 2.0 and Laravel 5.5 Project
 
 This is a little personal project made with VueJS 2.0 (plus Vuex, VeuRouter and VeeValidate) and Laravel 5.5 (just for API).
 
